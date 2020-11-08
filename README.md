@@ -41,7 +41,7 @@
 Ссылка на текущий проект [Markdown](https://github.com/vzhukov85/angular10-markdown)
 
 ### Изображения
-![Angular](https://cdn.worldvectorlogo.com/logos/angular-icon.svg)
+![Angular](angular-icon.svg)
 
 ### Редакторы
 Большинство IDE поддерживают плагины для работы с Markdown. 
